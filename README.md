@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on Robustness in Machine Learning Algorithms
 - 📫 how to reach me : mohammadm97i@gmail.com - [linkedin.com/in/mohammadmohammadi97/](https://www.linkedin.com/in/mohammadmohammadi97/)
 
-<img style="height: 10rem" src="https://github-readme-stats.vercel.app/api?username=iMohammad97&theme=prussian&show_icons=true&include_all_commits=true&hide_border=true"> <img style="height: 10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMohammad97&layout=compact&theme=prussian&hide_border=true">
 
 <!--
 **iMohammad97/iMohammad97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
