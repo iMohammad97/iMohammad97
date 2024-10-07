@@ -1,4 +1,8 @@
-## Hi there 👋
+- 👋 Hi, My name is Mohammad
+- 👀 I’m an AI/ML Engineer, I have experience in CV, Robustness and Data Analysis
+- 🌱 I’m studying as a master science student in Computer Sciences at Sharif University of Technology (SUT)
+- 🔭 I’m currently working on Robustness in Machine Learning Algorithms
+- 📫 how to reach me : mohammadm97i@gmail.com - [linkedin.com/in/mohammadmohammadi97/](https://www.linkedin.com/in/mohammadmohammadi97/)
 
 <!--
 **iMohammad97/iMohammad97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
