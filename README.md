@@ -4,7 +4,7 @@
 - 🔭 I’m currently working in parallel on:
   - Robustness in Machine Learning Algorithms
   - Anomaly Detection in Time-Series
-  - State-Of-Health (SOH) Prediction in Batteries
+  - State-Of-Health (SOH) Prediction in Batteries Time-Series Data
 - 📫 how to reach me : mohammadm97i@gmail.com - [linkedin.com/in/mohammadmohammadi97/](https://www.linkedin.com/in/mohammadmohammadi97/)
 
 
