@@ -1,10 +1,16 @@
 - 👋 Hi, My name is Mohammad
-- 👀 I’m an AI/ML Engineer, I have experience in CV, Robustness and Data Analysis
-- 🌱 I’m studying as a master science student in Computer Sciences at Sharif University of Technology (SUT)
-- 🔭 I’m currently working in parallel on:
-  - Robustness in Machine Learning Algorithms
+- 👀 I’m an AI/ML Engineer, I have experience in Time-Series, Batteries Ops, Robustness and Data Analysis
+- 🌱 I’m a graduate master science in Computer Sciences at Sharif University of Technology (SUT)
+- ⚡ I’m currently research in parallel on:
+  - Robustness in High Stake Machine Learning Algorithms
+  - State-Of-Health (SOH) and State-of-Charge (SoC) Estimation in Batteries Time-Series Data
+  - Degradation-Aware Estimation of Batteries Revenue in National Electricity Market (NEM) of Australia
   - Anomaly Detection in Time-Series
-  - State-Of-Health (SOH) Prediction in Batteries Time-Series Data
+- 🔭I’m currently working in parallel on:
+  - ParsGPT: AI crypto trading assistant and crypto hub mobile app
+  - DuelBGM: Online backgammon mobile game
+  - GuessIT: Mobile trivia game based on watching meme videos and guessing the outcome
+  - Istade: Online Cafe/Restaurant management ERM/CRM + Order kiosk system
 - 📫 how to reach me : mohammadm97i@gmail.com - [linkedin.com/in/mohammadmohammadi97/](https://www.linkedin.com/in/mohammadmohammadi97/)
 
 
