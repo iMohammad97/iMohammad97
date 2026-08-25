@@ -3,8 +3,8 @@
 - 🌱 I’m a graduate master science in Computer Sciences at Sharif University of Technology (SUT)
 - ⚡ I’m currently research in parallel on:
   - Robustness in High Stake Machine Learning Algorithms
-  - State-Of-Health (SOH) and State-of-Charge (SoC) Estimation in Batteries Time-Series Data
-  - Degradation-Aware Estimation of Batteries Revenue in National Electricity Market (NEM) of Australia
+  - State-Of-Health (SOH) and State-of-Charge (SoC) Estimation in Batteries' Time-Series Data
+  - Degradation-Aware Estimation of Batteries' Revenue in National Electricity Market (NEM) of Australia
   - Anomaly Detection in Time-Series
 - 🔭I’m currently working in parallel on:
   - ParsGPT: AI crypto trading assistant and crypto hub mobile app
