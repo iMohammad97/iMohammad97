@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Mohammad
 - 👀 I’m an AI/ML Engineer, I have experience in Time-Series, Batteries Ops, Robustness and Data Analysis
 - 🌱 I’m a graduate master science in Computer Sciences at Sharif University of Technology (SUT)
-- ⚡ I’m currently research in parallel on:
+- ⚡ I’m currently researching in parallel on:
   - Robustness in High Stake Machine Learning Algorithms
   - State-Of-Health (SOH) and State-of-Charge (SoC) Estimation in Batteries' Time-Series Data
   - Degradation-Aware Estimation of Batteries' Revenue in National Electricity Market (NEM) of Australia
