@@ -3,14 +3,15 @@
 - 🌱 I’m a graduate master science in Computer Sciences at Sharif University of Technology (SUT)
 - ⚡ I’m currently researching in parallel on:
   - Robustness in High Stake Machine Learning Algorithms
-  - State-Of-Health (SOH) and State-of-Charge (SoC) Estimation in Batteries' Time-Series Data
-  - Degradation-Aware Estimation of Batteries' Revenue in National Electricity Market (NEM) of Australia
+  - Prognostic Modeling of Batteries
+  - Modeling Batteries' Behaviour in Australian National Electricity Market (NEM)
   - Anomaly Detection in Time-Series
 - 🔭I’m currently working in parallel on:
-  - ParsGPT: AI crypto trading assistant and crypto hub mobile app
+  - ParsGPT: AI trading assistant and finance hub mobile app
   - DuelBGM: Online backgammon mobile game
   - GuessIT: Mobile trivia game based on watching meme videos and guessing the outcome
   - Istade: Online Cafe/Restaurant management ERM/CRM + Order kiosk system
+  - Gisheh: Online streaming platform
 - 📫 how to reach me : mohammadm97i@gmail.com - [linkedin.com/in/mohammadmohammadi97/](https://www.linkedin.com/in/mohammadmohammadi97/)
 
 
